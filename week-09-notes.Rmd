@@ -1,0 +1,74 @@
+---
+title: "Week-09-Notes"
+author: "Andrew Nalundasan"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    number_sections: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Overview Video
+
++ Marketing Analytics - pairs well with Week 7 (how analytics is changing management)
+
+    + week 9 is about how analytics is changing Marketing
+    
++ week 8 was a crash course in marketing strategy
++ now that we have data, we can address these challenges
++ attempts to address marketing problems via analytics
+
+Assignment 4:
+
++ drill down in one of the marketing phases (Analysis / Aspiration / Action)
++ think creatively how analytics is changing one of these stages
++ powerpoint on zoom and group speaking to the slides
++ 10 mins max for presentation
++ talk about how analytics is changing marketing in different ways
++ audience is Colaner + classmates 
+
+
+# "Implementing Marketing Analytics" (Farris and Venkatesen)
+
+
+
+# "Why You Arent Getting More From Your Marketing AI" (Ascarza, Ross, and Hardie) 
+
+
+
+# Where are digital ads really going (2014)
+
++ every single advertisement is relevant to me
++ tailored content based upon data chosen to share by me
++ future of advertising: comes down to **RELEVANCE**
+
+    + how to get the right ad in front of the right person at the right time
+    + all you have to do is go online for a few minutes and click on stuff
+    
++ Why do we see advertisements that are not relevant to us, given all the data that we hand over to companies?
++ Advertising can now use big data and real time markets to conduct trades and do everything!
++ Advertising has remained flat compared to Finance
++ Finance have embraced quantitative analysis to drive the industry. Marketing has not done this
++ Marketing should be math focused rather than "feeling in your gut"
++ return on an advertising impression is not always clear
++ On average, delivered 50% higher ROI on digital campaigns
+
+    + delivering more conversions using the same amount of advertising spend
+    + twice as many people were seeing relevant ads
+    + quick results after 4 weeks
+    + must sieve through heaps of NOISE
+    
++ impact on consumers
+
+    + advertising will become tailored to the individual
+    + curated content you actually enjoy <-- future of advertising
+    + need more quantitative experts to get to this future
+
+
+
